@@ -1,0 +1,179 @@
+<style type='text/css'>
+/*
+#4d7e65 green
+#b5533c red
+
+## green {data-background=#4d7e65}
+
+## blue {data-background=#3c70b5}
+
+## red {data-background=#b5533c}
+
+ */
+
+h1 {
+  font-size: 2.5em;
+}
+
+.reveal {
+    font-size: 150%; 
+}
+
+.reveal .title {
+    font-size: 260%; 
+}
+
+.subtitle{
+    font-size: 200%;
+    color: #e7ad52;
+    margin-bottom: +50px;
+
+}
+p.author,
+p.date{
+    margin-top: -20px;
+}
+
+.reveal h2 {
+    margin-bottom: +50px;
+}
+
+.green {
+    color :   #009900;
+    font-weight: bold;
+    font-size: 200%;
+}
+
+.brown {
+    color :   #C6930A;
+    font-weight: bold;
+    font-size: 150%;
+}
+
+.coffee {
+    color :   #CC9900;
+    font-weight: bold;
+    font-size: 200%;
+}
+
+.google {
+    color :   #000000;
+    position: absolute;
+    top: 260px;
+    left: 10px;
+    font-size: 90%;
+}
+
+.lunch {
+    color :   #FF0000;
+    font-weight: bold;
+    font-size: 200%;
+}
+
+.reveal table {
+    font-size: 80%;
+}
+
+.border iframe {
+    border: none;
+    width: 2500px!important;
+    height: 680px;
+    margin-top: 0 !important;
+    margin-bottom: 0 !important; 
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+    padding: 0;
+    display:block; /* Add this */
+    max-width: 100%;
+}
+
+ol li {
+  line-height:2em;
+}
+
+ul li {
+  line-height:2em;
+}
+
+ul li li {
+
+ line-height:1.3em;
+ list-style-type: None;
+ font-style: italic;
+ font-size: 90%;
+ font-family: Georgia;
+}
+
+hr {
+    color: white;
+}
+
+/* .reveal h1,
+.reveal h2,
+.reveal h3,
+.reveal h4,
+.reveal h5,
+.reveal h6 {
+    word-wrap: normal;
+    -webkit-hyphens: manual;
+    -moz-hyphens: manual;
+    hyphens: manual;
+} */
+
+div.references{
+    font-size: 75%
+}
+
+.reveal .slide-number {
+  font-size: 18pt;
+  color: #ffffff; }
+
+.emoji {
+    font-size: 150%
+}
+
+.reveal blockquote{
+    /*
+    border-left: 5px solid #428bca;
+    color: #428bca;
+    border-left: 4px solid #428bca;
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+    border-right: 4px solid #428bca;
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+
+
+    background-color: #E6E6E6;
+    color: #000000;
+     background-color: #d2f8d2; */
+}
+
+.reveal blockquote{
+    position: static;
+    text-align: center;
+    border-style: none;
+    box-shadow: 0px 0px 0px rgba(0, 0, 0, 0.0);
+    background: inherit;
+    font-family: Georgia;
+    font-size: 1.4em;
+    width:90%;
+    margin:0px auto;
+    padding: 1em
+    font-style:italic;
+
+}
+
+
+
+
+.reveal blockquote cite{
+    text-align: right;
+    font-style: normal;
+    font-size: 0.75em;
+    font-weight: bold;
+    margin-top:1em;
+}
+
+
+</style>
